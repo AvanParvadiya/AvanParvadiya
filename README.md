@@ -3,7 +3,7 @@
 
 <!-- <img align="right" src="https://i.pinimg.com/originals/cd/d9/76/cdd97628928661edc4902fa9d97342c5.jpg" width="200"/> -->
 <p aligh="left">
-  <p>I am Avan,Full Stack developer 👨‍💻 from <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/india-9-167256.png" width="20px" /><b>&nbsp;&nbsp;India</b></p>
+  <p>I am Avan,Full Stack developer 👨‍💻 from <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/india-9-167256.png" width="20px" /><b>&nbsp;India</b></p>
 
   💡&nbsp;I like to explore new trends and learn new technologies.\
   <!-- 🏃‍♂️&nbsp;I am on track for learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>, <a style="color:#764ABC" href="https://redux.js.org/" target="_blank"><u>Redux</u></a>.\ -->
